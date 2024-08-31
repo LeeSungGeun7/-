@@ -17,6 +17,8 @@
 ## 배포 주소
 
 https://deno-front-sjdz3b63yq-du.a.run.app/
+// 현재 구글클라우드 과금으로 인해 배포 중단 
+// 로컬환경에서 정리해서 보여드리겠습니다. 
 
 카카오로 간편가입 or 
 test 계정 : test , 1234
